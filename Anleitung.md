@@ -72,5 +72,5 @@ basic.showNumber(randint(0, 6))
 ```
 
 ![Kompassausrichtung](/Kompassausrichtung.png)
-
+![Kompassausrichtung](/static/tutorials/Kompassausrichtung.png)
 
